@@ -1,0 +1,477 @@
+[
+    {
+        "code": "USD",
+        "label": "American Samoa",
+        "flag": "https://flagcdn.com/w320/as.png"
+    },
+    {
+        "code": "EUR",
+        "label": "Andorra",
+        "flag": "https://flagcdn.com/w320/ad.png"
+    },
+    {
+        "code": "AUD",
+        "label": "Australia",
+        "flag": "https://flagcdn.com/w320/au.png"
+    },
+    {
+        "code": "EUR",
+        "label": "Austria",
+        "flag": "https://flagcdn.com/w320/at.png"
+    },
+    {
+        "code": "EUR",
+        "label": "Belgium",
+        "flag": "https://flagcdn.com/w320/be.png"
+    },
+    {
+        "code": "BRL",
+        "label": "Brazil",
+        "flag": "https://flagcdn.com/w320/br.png"
+    },
+    {
+        "code": "USD",
+        "label": "British Indian Ocean Territory",
+        "flag": "https://flagcdn.com/w320/io.png"
+    },
+    {
+        "code": "USD",
+        "label": "British Virgin Islands",
+        "flag": "https://flagcdn.com/w320/vg.png"
+    },
+    {
+        "code": "BGN",
+        "label": "Bulgaria",
+        "flag": "https://flagcdn.com/w320/bg.png"
+    },
+    {
+        "code": "CAD",
+        "label": "Canada",
+        "flag": "https://flagcdn.com/w320/ca.png"
+    },
+    {
+        "code": "USD",
+        "label": "Caribbean Netherlands",
+        "flag": "https://flagcdn.com/w320/bq.png"
+    },
+    {
+        "code": "CNY",
+        "label": "China",
+        "flag": "https://flagcdn.com/w320/cn.png"
+    },
+    {
+        "code": "AUD",
+        "label": "Christmas Island",
+        "flag": "https://flagcdn.com/w320/cx.png"
+    },
+    {
+        "code": "AUD",
+        "label": "Cocos (Keeling) Islands",
+        "flag": "https://flagcdn.com/w320/cc.png"
+    },
+    {
+        "code": "EUR",
+        "label": "Croatia",
+        "flag": "https://flagcdn.com/w320/hr.png"
+    },
+    {
+        "code": "EUR",
+        "label": "Cyprus",
+        "flag": "https://flagcdn.com/w320/cy.png"
+    },
+    {
+        "code": "CZK",
+        "label": "Czechia",
+        "flag": "https://flagcdn.com/w320/cz.png"
+    },
+    {
+        "code": "DKK",
+        "label": "Denmark",
+        "flag": "https://flagcdn.com/w320/dk.png"
+    },
+    {
+        "code": "USD",
+        "label": "Ecuador",
+        "flag": "https://flagcdn.com/w320/ec.png"
+    },
+    {
+        "code": "USD",
+        "label": "El Salvador",
+        "flag": "https://flagcdn.com/w320/sv.png"
+    },
+    {
+        "code": "EUR",
+        "label": "Estonia",
+        "flag": "https://flagcdn.com/w320/ee.png"
+    },
+    {
+        "code": "DKK",
+        "label": "Faroe Islands",
+        "flag": "https://flagcdn.com/w320/fo.png"
+    },
+    {
+        "code": "EUR",
+        "label": "Finland",
+        "flag": "https://flagcdn.com/w320/fi.png"
+    },
+    {
+        "code": "EUR",
+        "label": "France",
+        "flag": "https://flagcdn.com/w320/fr.png"
+    },
+    {
+        "code": "EUR",
+        "label": "French Guiana",
+        "flag": "https://flagcdn.com/w320/gf.png"
+    },
+    {
+        "code": "EUR",
+        "label": "French Southern and Antarctic Lands",
+        "flag": "https://flagcdn.com/w320/tf.png"
+    },
+    {
+        "code": "EUR",
+        "label": "Germany",
+        "flag": "https://flagcdn.com/w320/de.png"
+    },
+    {
+        "code": "EUR",
+        "label": "Greece",
+        "flag": "https://flagcdn.com/w320/gr.png"
+    },
+    {
+        "code": "DKK",
+        "label": "Greenland",
+        "flag": "https://flagcdn.com/w320/gl.png"
+    },
+    {
+        "code": "EUR",
+        "label": "Guadeloupe",
+        "flag": "https://flagcdn.com/w320/gp.png"
+    },
+    {
+        "code": "USD",
+        "label": "Guam",
+        "flag": "https://flagcdn.com/w320/gu.png"
+    },
+    {
+        "code": "GBP",
+        "label": "Guernsey",
+        "flag": "https://flagcdn.com/w320/gg.png"
+    },
+    {
+        "code": "HKD",
+        "label": "Hong Kong",
+        "flag": "https://flagcdn.com/w320/hk.png"
+    },
+    {
+        "code": "HUF",
+        "label": "Hungary",
+        "flag": "https://flagcdn.com/w320/hu.png"
+    },
+    {
+        "code": "ISK",
+        "label": "Iceland",
+        "flag": "https://flagcdn.com/w320/is.png"
+    },
+    {
+        "code": "INR",
+        "label": "India",
+        "flag": "https://flagcdn.com/w320/in.png"
+    },
+    {
+        "code": "EUR",
+        "label": "Ireland",
+        "flag": "https://flagcdn.com/w320/ie.png"
+    },
+    {
+        "code": "GBP",
+        "label": "Isle of Man",
+        "flag": "https://flagcdn.com/w320/im.png"
+    },
+    {
+        "code": "ILS",
+        "label": "Israel",
+        "flag": "https://flagcdn.com/w320/il.png"
+    },
+    {
+        "code": "EUR",
+        "label": "Italy",
+        "flag": "https://flagcdn.com/w320/it.png"
+    },
+    {
+        "code": "JPY",
+        "label": "Japan",
+        "flag": "https://flagcdn.com/w320/jp.png"
+    },
+    {
+        "code": "GBP",
+        "label": "Jersey",
+        "flag": "https://flagcdn.com/w320/je.png"
+    },
+    {
+        "code": "AUD",
+        "label": "Kiribati",
+        "flag": "https://flagcdn.com/w320/ki.png"
+    },
+    {
+        "code": "EUR",
+        "label": "Kosovo",
+        "flag": "https://flagcdn.com/w320/xk.png"
+    },
+    {
+        "code": "EUR",
+        "label": "Latvia",
+        "flag": "https://flagcdn.com/w320/lv.png"
+    },
+    {
+        "code": "CHF",
+        "label": "Liechtenstein",
+        "flag": "https://flagcdn.com/w320/li.png"
+    },
+    {
+        "code": "EUR",
+        "label": "Lithuania",
+        "flag": "https://flagcdn.com/w320/lt.png"
+    },
+    {
+        "code": "EUR",
+        "label": "Luxembourg",
+        "flag": "https://flagcdn.com/w320/lu.png"
+    },
+    {
+        "code": "MYR",
+        "label": "Malaysia",
+        "flag": "https://flagcdn.com/w320/my.png"
+    },
+    {
+        "code": "EUR",
+        "label": "Malta",
+        "flag": "https://flagcdn.com/w320/mt.png"
+    },
+    {
+        "code": "USD",
+        "label": "Marshall Islands",
+        "flag": "https://flagcdn.com/w320/mh.png"
+    },
+    {
+        "code": "EUR",
+        "label": "Martinique",
+        "flag": "https://flagcdn.com/w320/mq.png"
+    },
+    {
+        "code": "EUR",
+        "label": "Mayotte",
+        "flag": "https://flagcdn.com/w320/yt.png"
+    },
+    {
+        "code": "MXN",
+        "label": "Mexico",
+        "flag": "https://flagcdn.com/w320/mx.png"
+    },
+    {
+        "code": "USD",
+        "label": "Micronesia",
+        "flag": "https://flagcdn.com/w320/fm.png"
+    },
+    {
+        "code": "EUR",
+        "label": "Monaco",
+        "flag": "https://flagcdn.com/w320/mc.png"
+    },
+    {
+        "code": "EUR",
+        "label": "Montenegro",
+        "flag": "https://flagcdn.com/w320/me.png"
+    },
+    {
+        "code": "AUD",
+        "label": "Nauru",
+        "flag": "https://flagcdn.com/w320/nr.png"
+    },
+    {
+        "code": "EUR",
+        "label": "Netherlands",
+        "flag": "https://flagcdn.com/w320/nl.png"
+    },
+    {
+        "code": "NZD",
+        "label": "New Zealand",
+        "flag": "https://flagcdn.com/w320/nz.png"
+    },
+    {
+        "code": "NZD",
+        "label": "Niue",
+        "flag": "https://flagcdn.com/w320/nu.png"
+    },
+    {
+        "code": "AUD",
+        "label": "Norfolk Island",
+        "flag": "https://flagcdn.com/w320/nf.png"
+    },
+    {
+        "code": "USD",
+        "label": "Northern Mariana Islands",
+        "flag": "https://flagcdn.com/w320/mp.png"
+    },
+    {
+        "code": "NOK",
+        "label": "Norway",
+        "flag": "https://flagcdn.com/w320/no.png"
+    },
+    {
+        "code": "USD",
+        "label": "Palau",
+        "flag": "https://flagcdn.com/w320/pw.png"
+    },
+    {
+        "code": "PHP",
+        "label": "Philippines",
+        "flag": "https://flagcdn.com/w320/ph.png"
+    },
+    {
+        "code": "NZD",
+        "label": "Pitcairn Islands",
+        "flag": "https://flagcdn.com/w320/pn.png"
+    },
+    {
+        "code": "PLN",
+        "label": "Poland",
+        "flag": "https://flagcdn.com/w320/pl.png"
+    },
+    {
+        "code": "EUR",
+        "label": "Portugal",
+        "flag": "https://flagcdn.com/w320/pt.png"
+    },
+    {
+        "code": "USD",
+        "label": "Puerto Rico",
+        "flag": "https://flagcdn.com/w320/pr.png"
+    },
+    {
+        "code": "RON",
+        "label": "Romania",
+        "flag": "https://flagcdn.com/w320/ro.png"
+    },
+    {
+        "code": "RUB",
+        "label": "Russia",
+        "flag": "https://flagcdn.com/w320/ru.png"
+    },
+    {
+        "code": "EUR",
+        "label": "Réunion",
+        "flag": "https://flagcdn.com/w320/re.png"
+    },
+    {
+        "code": "EUR",
+        "label": "Saint Barthélemy",
+        "flag": "https://flagcdn.com/w320/bl.png"
+    },
+    {
+        "code": "GBP",
+        "label": "Saint Helena",
+        "flag": "https://flagcdn.com/w320/sh.png"
+    },
+    {
+        "code": "EUR",
+        "label": "Saint Martin",
+        "flag": "https://flagcdn.com/w320/mf.png"
+    },
+    {
+        "code": "EUR",
+        "label": "Saint Pierre",
+        "flag": "https://flagcdn.com/w320/pm.png"
+    },
+    {
+        "code": "EUR",
+        "label": "San Marino",
+        "flag": "https://flagcdn.com/w320/sm.png"
+    },
+    {
+        "code": "SGD",
+        "label": "Singapore",
+        "flag": "https://flagcdn.com/w320/sg.png"
+    },
+    {
+        "code": "EUR",
+        "label": "Slovenia",
+        "flag": "https://flagcdn.com/w320/si.png"
+    },
+    {
+        "code": "ZAR",
+        "label": "South Africa",
+        "flag": "https://flagcdn.com/w320/za.png"
+    },
+    {
+        "code": "KRW",
+        "label": "South Korea",
+        "flag": "https://flagcdn.com/w320/kr.png"
+    },
+    {
+        "code": "EUR",
+        "label": "Spain",
+        "flag": "https://flagcdn.com/w320/es.png"
+    },
+    {
+        "code": "NOK",
+        "label": "Svalbard Mayen",
+        "flag": "https://flagcdn.com/w320/sj.png"
+    },
+    {
+        "code": "SEK",
+        "label": "Sweden",
+        "flag": "https://flagcdn.com/w320/se.png"
+    },
+    {
+        "code": "CHF",
+        "label": "Switzerland",
+        "flag": "https://flagcdn.com/w320/ch.png"
+    },
+    {
+        "code": "THB",
+        "label": "Thailand",
+        "flag": "https://flagcdn.com/w320/th.png"
+    },
+    {
+        "code": "USD",
+        "label": "Timor-Leste",
+        "flag": "https://flagcdn.com/w320/tl.png"
+    },
+    {
+        "code": "NZD",
+        "label": "Tokelau",
+        "flag": "https://flagcdn.com/w320/tk.png"
+    },
+    {
+        "code": "TRY",
+        "label": "Turkey",
+        "flag": "https://flagcdn.com/w320/tr.png"
+    },
+    {
+        "code": "AUD",
+        "label": "Tuvalu",
+        "flag": "https://flagcdn.com/w320/tv.png"
+    },
+    {
+        "code": "GBP",
+        "label": "United Kingdom",
+        "flag": "https://flagcdn.com/w320/gb.png"
+    },
+    {
+        "code": "USD",
+        "label": "United States",
+        "flag": "https://flagcdn.com/w320/us.png"
+    },
+    {
+        "code": "EUR",
+        "label": "Vatican City",
+        "flag": "https://flagcdn.com/w320/va.png"
+    },
+    {
+        "code": "EUR",
+        "label": "Åland Islands",
+        "flag": "https://flagcdn.com/w320/ax.png"
+    }
+]
