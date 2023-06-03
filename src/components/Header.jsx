@@ -23,32 +23,31 @@ export const Header = () => {
             <Stack
                 direction='row'
                 alignItems='center'
+                gap={1.5}
             >
                 <a
                     href='https://www.linkedin.com/in/luis-carrasco-320586270/'
                     target='_blank'
                 >
-                    <IconButton>
-                        <LinkedInIcon
-                            fontSize='large'
-                            sx={{
-                                color: '#505050',
-                            }}
-                        />
-                    </IconButton>
+                    <LinkedInIcon
+                        aria-label='link to linkedin'
+                        fontSize='large'
+                        sx={{
+                            color: '#505050',
+                        }}
+                    />
                 </a>
                 <a
                     href='https://github.com/ilmovilDev'
                     target='_blank'
                 >
-                    <IconButton>
-                        <GitHubIcon
-                            fontSize='large'
-                            sx={{
-                                color: '#505050',
-                            }}
-                        />
-                    </IconButton>
+                    <GitHubIcon
+                        aria-label='link to github'
+                        fontSize='large'
+                        sx={{
+                            color: '#505050',
+                        }}
+                    />
                 </a>
             </Stack>
         </Grid>
