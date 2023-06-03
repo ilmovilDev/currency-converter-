@@ -1,4 +1,4 @@
-import React, { useContext, useEffect, useState } from 'react';
+import { useCallback, useContext, useEffect, useState } from 'react';
 import axios from 'axios';
 import { CurrencyContext } from './context/CurrencyContext';
 import { Container, Grid, Skeleton, Typography } from '@mui/material';
@@ -24,9 +24,9 @@ const App = () => {
   const [resultCurrency, setResultCurrency] = useState(0);
   const [hasError, setHasError] = useState(null);
 
-  const fetchCurrencyConversion = async (codeFrom, codeTo) => {
+  const fetchCurrencyConversion = useCallback(async (codeFrom, codeTo) => {
     try {
-      setIsLoading(true)
+      setIsLoading(true);
       const response = await axios.get("https://api.freecurrencyapi.com/v1/latest", {
         params: {
           apikey: import.meta.env.VITE_API_KEY,
@@ -36,11 +36,11 @@ const App = () => {
       });
       setResultCurrency(response.data.data[codeTo]);
       setHasError(null);
-      setIsLoading(false)
+      setIsLoading(false);
     } catch (error) {
       setHasError('No result for this pair');
     }
-  };
+  }, []);
 
   useEffect(() => {
     if (firstAmount) {

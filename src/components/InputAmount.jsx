@@ -6,6 +6,12 @@ export const InputAmount = () => {
 
   const { firstAmount, setFirstAmount } = useContext(CurrencyContext)
 
+  function handleInput(e) {
+    if (!isNaN(e.target.value)) {
+      setFirstAmount(e.target.value)
+    }
+  }
+
   return (
     <Grid
         item
@@ -14,7 +20,7 @@ export const InputAmount = () => {
         <TextField
           fullWidth
           value={ firstAmount }
-          onChange={ e => setFirstAmount( e.target.value ) }
+          onChange={ handleInput }
           label="Amount"
           placeholder='Enter the amount to convert'
           InputProps={{

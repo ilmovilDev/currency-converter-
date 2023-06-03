@@ -9,8 +9,7 @@ export const Text = ({ children }) => {
                 fontWeight: 500,
                 fontSize: {
                     xs: '18px',
-                    md: '20px',
-                    lg: '24px'
+                    md: '20px'
                 }
             }}
         >

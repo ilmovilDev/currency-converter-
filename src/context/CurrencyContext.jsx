@@ -14,7 +14,7 @@ const CurrencyProvider = ({ children }) => {
       label: "Brazil",
       flag: "https://flagcdn.com/w320/br.png"
     });
-    const [firstAmount, setFirstAmount] = useState('');
+    const [firstAmount, setFirstAmount] = useState(0);
 
     const value = {
         fromCurrency,

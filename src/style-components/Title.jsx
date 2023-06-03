@@ -9,8 +9,8 @@ export const Title = ({ children }) => {
                 fontWeight: 500,
                 fontSize: {
                     xs: '18px',
-                    md: '24px',
-                    lg: '28px'
+                    md: '22px',
+                    lg: '26px'
                 }
             }}
         >

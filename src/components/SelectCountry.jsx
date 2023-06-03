@@ -1,17 +1,20 @@
 import { Autocomplete, Box, Grid, TextField } from '@mui/material'
 import countries from '../data-base/countries.json'
+import { useMemo } from 'react';
 
 export const SelectCountry = ({ value, setValue, label }) => {
 
-  const dataCountries = countries.sort((a, b) => {
-    if (a.label < b.label) {
-      return -1;
-    }
-    if (a.label > b.label) {
-      return 1;
-    }
-    return 0;
-  });
+  const dataCountries = useMemo(() => {
+    return countries.sort((a, b) => {
+      if (a.label < b.label) {
+        return -1;
+      }
+      if (a.label > b.label) {
+        return 1;
+      }
+      return 0;
+    });
+  }, []);
 
   return (
     <Grid
@@ -28,7 +31,11 @@ export const SelectCountry = ({ value, setValue, label }) => {
         }}
         disableClearable
         renderOption={(props, option) => (
-          <Box component="li" sx={{ '& > img': { mr: 2, flexShrink: 0 } }} {...props}>
+          <Box 
+            component="li" 
+            sx={{ '& > img': { mr: 2, flexShrink: 0 } }} 
+            {...props}
+          >
             <img
               loading="lazy"
               width="20"
@@ -45,7 +52,7 @@ export const SelectCountry = ({ value, setValue, label }) => {
             label={label}
           />
         )}
-      />
+        />
     </Grid>
   )
 }
